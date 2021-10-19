@@ -1,1 +1,1 @@
-This is Landin's first git project!
+This is Landin's 7th git project!
